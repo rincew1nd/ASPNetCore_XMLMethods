@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "557VLIvwYtj8MAgY0mrPg1hV8qQFRCGXC3aa+qWDWoQbhB268VSFljWCVw8Mqx3dTTMrkt9vY/01+jCNVQEAfQ==",
+  "success": true,
+  "projectFilePath": "D:\\users\\VTitov\\source\\repos\\Integration1C.API\\Integration1C.API.csproj",
+  "expectedPackageFiles": [
+    "D:\\users\\VTitov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\users\\VTitov\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "D:\\users\\VTitov\\.nuget\\packages\\swashbuckle.aspnetcore\\5.2.1\\swashbuckle.aspnetcore.5.2.1.nupkg.sha512",
+    "D:\\users\\VTitov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.2.1\\swashbuckle.aspnetcore.swagger.5.2.1.nupkg.sha512",
+    "D:\\users\\VTitov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.2.1\\swashbuckle.aspnetcore.swaggergen.5.2.1.nupkg.sha512",
+    "D:\\users\\VTitov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.2.1\\swashbuckle.aspnetcore.swaggerui.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
