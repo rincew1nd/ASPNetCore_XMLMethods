@@ -24,11 +24,10 @@ namespace Integration1C.API
             {
                 c.DescribeAllParametersInCamelCase();
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Neocase <-> 1C Integration", Version = "v1" });
+                c.SchemaFilter<XmlSchemaFilter>();
             });
-
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
